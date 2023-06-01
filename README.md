@@ -13,4 +13,8 @@ SecureChat is a chatting application using socket programming that incorporates 
     - ConfidentialityTool Class provides methods for generating key pairs, exchanging keys, and extracting the shared secret key.
     - All messages are encrypted and decrypted, so that the content of the messages remains confidential from unauthorized access.
 
+Server Terminal:
+<img src="screenshots/Server.png" alt="Server-Terminal">
 
+Client Terminal:
+<img src="screenshots/Client.png" alt="Server-Terminal">
